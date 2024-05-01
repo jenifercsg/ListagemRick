@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 
-<div class="card" style="border-radius: 8px;">
+<div class="card-about " style="border-radius: 8px; ">
   <body>
      <nav>
          <ul>

@@ -4,14 +4,9 @@
 
 </script>
 
-<style>
-
-
-
-</style>
 
 <template>
-      <div class="card col-lg-12 mt-4" style="width: 18rem; margin:8px; ">
+      <div class="card col-lg-12 mt-5" style="width: 18rem; height: 790px">
         <img :src="personagem.image" class="img-fluid rounded-start mt-5" alt="Imagem de {{ personagem.name }}">
         <div class="card-body">
           <h5 class="card-title"> {{ personagem.name }}</h5>

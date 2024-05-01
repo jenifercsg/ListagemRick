@@ -16,9 +16,8 @@ onMounted(() => {
 
 <template>
   <main>
-
-    <div class="container-fluid">
-      <div class="col-lg-12 mt-4">
+    <div class="container-fluid mt-5">
+      <div class="col-lg-12">
         <div class="card-body row">
           <ListPersonagens
           v-for="personagem in personagens"
